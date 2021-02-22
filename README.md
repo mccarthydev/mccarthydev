@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Justin 👋
 
-<!--
-**mccarthydev/mccarthydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate for IT. Interested in Machine Learning and Data Science. 
 
-Here are some ideas to get you started:
+I believe that mathematics is one of the most powerful languages of all time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I’m currently working on 🔭
+
+🤓 Developer at [CASE EJ](https://www.caseej.com.br/)
+
+📚 Studying Mathematics at [FeMASS](http://www.macae.rj.gov.br/femass/conteudo/titulo/apresentacao)
+
+### Reach Me 📫
+
+:briefcase: [LinkedIn](https://www.linkedin.com/in/mccarthydev/)
+
