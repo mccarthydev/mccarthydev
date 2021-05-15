@@ -16,6 +16,6 @@ I believe that mathematics is one of the most powerful languages of all time.
 
 ### CodeWars 👀⚔
 
-![alt text](https://www.codewars.com/users/mccarthydev/badges/small)
+[![CodeWars - mccarthydev](https://www.codewars.com/users/mccarthydev/badges/small)](https://www.codewars.com/users/mccarthydev)
 
 
