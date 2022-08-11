@@ -1,6 +1,6 @@
 ### Hi there, I'm Justin 👋
 
-Developing my front-end skills in Javascript.
+Developing my front-end skills in Javascript. And Backend in Java.
 
 Passionate for IT. Interested in Machine Learning and Data Science. 
 
@@ -8,14 +8,11 @@ I believe that mathematics is one of the most powerful languages of all time.
 
 ### I’m currently working on 🔭
 
-📚 Studying Mathematics at [FeMASS](http://www.macae.rj.gov.br/femass/conteudo/titulo/apresentacao)
+📚 Coursing a Java Software Development Bootcamp at [Merit America](https://meritamerica.org/courses/java-development/)
 
 ### Reach Me 📫
 
 :briefcase: [LinkedIn](https://www.linkedin.com/in/mccarthydev/)
 
-### CodeWars 👀⚔
-
-[![CodeWars - mccarthydev](https://www.codewars.com/users/mccarthydev/badges/small)](https://www.codewars.com/users/mccarthydev)
 
 
