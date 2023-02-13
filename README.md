@@ -8,7 +8,7 @@ I believe that mathematics is one of the most powerful languages of all time.
 
 ### I’m currently working on 🔭
 
-📚 Coursing a Java Software Development Bootcamp at [Merit America](https://meritamerica.org/courses/java-development/)
+📚 Just finished a Java Software Development Bootcamp at [Merit America](https://meritamerica.org/courses/java-development/)
 
 ### Reach Me 📫
 
