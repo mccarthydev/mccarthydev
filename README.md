@@ -1,15 +1,14 @@
 ### Hi there, I'm Justin 👋
 
-Developing my front-end skills in Javascript. And Backend in Java.
+From Amazon warehouse worker ➡️ SDE I at corporate
 
-Passionate for IT. Interested in Machine Learning and Data Science. 
+📚 [Amazon Technical Academy](https://www.aboutamazon.com/workplace/upskilling-commitments) Alumni!
 
-I believe that mathematics is one of the most powerful languages of all time.
+📚 Java Software Development Bootcamp at [Merit America](https://meritamerica.org/courses/java-development/) through Amazon [Career Choice](https://careerchoice.amazon/)
 
 ### I’m currently working on 🔭
 
-📚 Just finished a Java Software Development Bootcamp at [Merit America](https://meritamerica.org/courses/java-development/)
-
+💻 Current job highly focused on security
 ### Reach Me 📫
 
 :briefcase: [LinkedIn](https://www.linkedin.com/in/mccarthydev/)
